@@ -38,7 +38,7 @@ def lambda_handler(event, context):
     
                     payload = ""
                     headers = {
-                        "Authorization": "Bearer GALd5l4Y7ID64YGczovQg-obqcnq0qGJci9p5aykkGllZsx9vxSeyMqKThSiHFjrH1OhIoAbgDfD2laMks0hJhmS9I994PPnPy1oF4PB8pbQ0IveYXOv8W4BK6ueXXYx",
+                        "Authorization": "Bearer Token",
                         'cache-control': "no-cache"
                     }
     
